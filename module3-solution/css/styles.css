@@ -1,0 +1,104 @@
+#header-nav .container-fluid {
+	background-color: grey;
+	height: auto;
+	border: 2px solid black;
+
+}
+
+.navbar-header {
+	background-color: grey;
+}
+
+#header-nav {
+	height: auto;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration : none;
+}
+
+.navbar-brand a {
+	color: black;
+}
+
+.navbar-brand {
+
+	margin: 10px;
+}
+
+h1 {
+	margin-top: -10px;
+}
+
+button {
+	background-color: white;
+	height: 70px;
+	width: 80px;
+
+
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white
+}
+
+.navbar-toggle .icon-bar {
+	width: 70%;
+	margin: 0 auto 0;
+	height: 7px;
+}
+
+#collapsable-nav li{
+	border: 1px solid black;
+	height: 37px;
+	padding-top: 6px;
+}
+
+#collapsable-nav ul {
+	background-color: white;
+	border: 1px solid black;
+	margin: 0;
+}
+
+
+
+#collapsable-nav li span {
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+#collapsable-nav {
+	margin-top: 0px;
+	border: none;
+	padding: 0px;
+}
+
+.row section {
+	background-color: orange;
+	height: 1000px;
+
+}
+
+#main-body {
+	margin: 20px;
+}
+
+.container-fluid h2 {
+	margin-top: -10px;
+}
+
+#collapsable-nav #Chicken-menu {
+	border-top: none;
+	height: 35px;
+	padding-top: 5px;
+}
+
+#collapsable-nav #Sushi-menu {
+	border-bottom: none;
+	height: 35px;
+	padding-top: 8px;
+}
+
+
+
